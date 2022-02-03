@@ -1,16 +1,13 @@
-### Hi there 👋
+Hi there 👋
+------
+:rocket: About me
 
-<!--
-**fedei91/fedei91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+I am Federico, an enthusiast Java developer living in Belgium. 
+I do my best taking care of my code quality.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+1. 👀 I am interested in JavaScript
+2. ⚡ I look forward to collaborate
+3. 🌱 I am currently learning Angular
+4. 💬 Ask me about my private projects
+5. 📫 Reach me at fedej.izaguirre@gmail.com
