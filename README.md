@@ -1,13 +1,22 @@
 Hi there 👋
 ------
-:rocket: About me
 
+:rocket: I am Federico, an enthusiast Java developer living in Belgium. 
+I like writing quality code and learning new stuff.
 
-I am Federico, an enthusiast Java developer living in Belgium. 
-I do my best taking care of my code quality.
-
-1. 👀 I am interested in JavaScript
-2. ⚡ I look forward to collaborate
-3. 🌱 I am currently learning Angular
-4. 💬 Ask me about my private projects
-5. 📫 Reach me at fedej.izaguirre@gmail.com
+- 🔭 I'm currently looking for Java projects
+- ⚡ I look forward to collaborate
+- 👀 I'm interested in JavaScript
+- 🌱 I'm learning Angular
+- 💬 Ask me about my private projects or anything
+- 📫 Reach me at fedej.izaguirre@gmail.com
+ 
+  <p align="center">
+  <a href="mailto:fedej.izaguirre@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="mail" style="vertical-align:top">
+  </a> 
+  </br>
+  <a href="https://www.linkedin.com/in/federico-izaguirre/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" style="vertical-align:top">
+  </a>  
+</p>
