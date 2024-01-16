@@ -6,9 +6,7 @@ I like writing quality code and learning new stuff.
 
 - 🔭 I'm currently looking for Java and Spring projects
 - ⚡ I look forward to collaborate
-- ✔️ Last techonology learned: Angular
 - 👀 I'm always curious about JavaScript
-- 🌱 I'm learning React
 - 💬 Ask me about my private projects or anything
 - 📫 Reach me at fedej.izaguirre@gmail.com
  
